@@ -78,8 +78,8 @@ App web con motor de inferencia en Python y consumo de APIs externas en tiempo r
 
 <div align="center">
 
-[![SistemaExperto-IA](https://github-readme-stats.vercel.app/api/pin/?username=joestevil&repo=SistemaExperto-IA&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=E62429&text_color=c9c9c9&icon_color=E62429)](https://github.com/joestevil/SistemaExperto-IA)
-[![ModeloDeepLearning](https://github-readme-stats.vercel.app/api/pin/?username=joestevil&repo=ModeloDeepLearning&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=E62429&text_color=c9c9c9&icon_color=E62429)](https://github.com/joestevil/ModeloDeepLearning)
+[![SistemaExperto-IA](https://github-stats-extended.vercel.app/api/pin/?username=joestevil&repo=SistemaExperto-IA&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=E62429&text_color=c9c9c9&icon_color=E62429)](https://github.com/joestevil/SistemaExperto-IA)
+[![ModeloDeepLearning](https://github-stats-extended.vercel.app/api/pin/?username=joestevil&repo=ModeloDeepLearning&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=E62429&text_color=c9c9c9&icon_color=E62429)](https://github.com/joestevil/ModeloDeepLearning)
 
 </div>
 
@@ -112,10 +112,10 @@ App web con motor de inferencia en Python y consumo de APIs externas en tiempo r
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=joestevil&show_icons=true&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=E62429&icon_color=E62429&text_color=c9c9c9&count_private=true" height="165"/>
+<img src="https://github-stats-extended.vercel.app/api?username=joestevil&show_icons=true&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=E62429&icon_color=E62429&text_color=c9c9c9&count_private=true" height="165"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=joestevil&theme=dark&hide_border=true&background=0D0D0D&ring=E62429&fire=E62429&currStreakLabel=E62429" height="165"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joestevil&layout=compact&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=E62429&text_color=c9c9c9" height="165"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=joestevil&layout=compact&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=E62429&text_color=c9c9c9" height="165"/>
 
 </div>
 
