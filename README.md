@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,50:8b0000,100:0d0d0d&height=200&section=header&text=JOE%20VILLARREAL&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Estudiante%20de%20Ingenieria%20de%20Sistemas%20%7C%20IA%20%26%20Desarrollo%20Web&descAlignY=58&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,50:8b0000,100:0d0d0d&height=200&section=header&text=JOE%20VILLARREAL&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Estudiante%20de%20Ingenieria%20de%20Sistemas%20-%20IA%20y%20Desarrollo%20Web&descAlignY=58&descSize=16" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=E62429&center=true&vCenter=true&width=600&lines=With+great+power...;comes+great+responsibility.;Building+intelligent+systems.;Bienvenido+a+mi+telarana." alt="Typing SVG" />
 
