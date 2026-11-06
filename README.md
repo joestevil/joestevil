@@ -1,11 +1,11 @@
 <div align="center">
 
-<!-- BANNER PRINCIPAL MODERNO Y ELEGANTE -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:660000,100:b30000&height=200&section=header&text=Joe%20Villarreal&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Systems%20Engineering%20%E2%80%A2%20Cloud%20%26%20AI%20Solutions&descAlignY=58&descSize=17" width="100%" alt="Header Joe Villarreal"/>
+<!-- BANNER PRINCIPAL MODERNO Y LIBRE DE ERRORES XML -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:8b0000,100:0d0d0d&height=200&section=header&text=JOE%20VILLARREAL&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Systems%20Engineering%20-%20Cloud%20-%20AI%20Solutions&descAlignY=58&descSize=17" width="100%" alt="Header Joe Villarreal"/>
 
-<!-- EFECTO MÁQUINA DE ESCRIBIR (1 LÍNEA FLUIDA A LA VEZ) -->
+<!-- EFECTO MÁQUINA DE ESCRIBIR (1 LÍNEA FLUIDA A LA VEZ, SIN SÍMBOLOS '&') -->
 <a href="https://github.com/joestevil">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=E62429&center=true&vCenter=true&width=700&height=45&lines=AWS+Student+Builder+Group+Leader+%40+USAT;Full-Stack+Web+%26+Mobile+Developer+(React+Native);Edge+AI+Researcher+%26+Multi-Hackathon+Winner;Building+scalable+architectures+with+clean+code." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=E62429&center=true&vCenter=true&width=700&height=45&lines=AWS+Student+Builder+Group+Leader+%40+USAT;Full-Stack+Web+and+Mobile+Developer+(React+Native);Edge+AI+Researcher+and+Multi-Hackathon+Winner;Building+scalable+architectures+with+clean+code." alt="Typing SVG" />
 </a>
 
 <br/><br/>
